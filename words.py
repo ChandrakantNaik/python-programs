@@ -1,4 +1,7 @@
-"""Retrieve and print words from a URL
+"""
+Programmer - Chandrakant Naik
+Date Modified - 30-07-2020
+Retrieve and print words from a URL
     
     Usage: 
         python words.py <URL>
